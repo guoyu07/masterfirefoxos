@@ -1,11 +1,11 @@
 # Adding peep so we can track it on requires.io. For packages
 # installation we use peep.py shipped in ./bin
 # sha256: 0E86YzILY1jJTttsgioP3zmaEIQiV-Tnp9wlOYUgkrg
-peep==2.0
+peep==2.2
 
 # sha256: cu3Ue1WudI0p8acdXKS4bnhcn7l0QHzyQrMWjm8bF34
 # sha256: 8ib7iqQ4RWlo1AP2c53hzy2tEo24b2buK0Hf6-NkXFs
-Django==1.7.3
+Django==1.7.4
 
 # TarGZ
 # sha256: 8uJz7TSsu1YJYtXPEpF5NtjfAil98JvTCJuFRtRYQTg
@@ -14,7 +14,7 @@ Django==1.7.3
 dj-database-url==0.3.0
 
 # sha256: JLo_Moq6CNjVBbwqj2ipTr4kqF6Eg2QLZnIhvA79Ox4
-psycopg2==2.5.4
+psycopg2==2.6
 
 # sha256: ufv3R_qOcR0zDy9Da5suz17tnrZ6Y3yoGrzRHCq-3sg
 python-decouple==2.3
@@ -32,7 +32,7 @@ MarkupSafe==0.23
 # sha256: gnFVEftiRvrUumbYEuuTQWroNxtGT6iL84Z8nBd9qhQ
 # Wheel
 # sha256: _7QRdX3jdNBcdZySmQjSOXxm47z2813uQabvnrhRSXs
-gunicorn==19.1.1
+gunicorn==19.2.1
 
 # sha256: 2slBnbPs4nu1PHQzJD_CLtQs9o3p1sQSk5Dh2a7-YxA
 # sha256: Pk2AGZlglZuCiVGqJMv6o2zr7RSdzXKMEehVeYsV-HA
@@ -44,13 +44,13 @@ django-csp==2.0.3
 # sha256: xby9Ec-YRwlq4etOg93nXRCsYu_m5zxGAPP5gJaM29I
 # sha256: Qxx4vPgnySoZ14Kc2a55AtUtbfyyPZiQT8gH3eoewHY
 # sha256: S6CrdPp_NPd_8jbuIVdFTRwqrqqiWTI2O_ob5suC29Y
-pytz==2014.9
+pytz==2014.10
 
 # sha256: J7kqegDxYuebWJb-nliXGbmF6c_fRFgmzBiFYVnObB4
-newrelic==2.40.0.34
+newrelic==2.44.0.36
 
 # sha256: KF6L1zDAtv374jwy0pNr_7pAHyPKsTLocixovoDW8YI
-flake8==2.2.5
+flake8==2.3.0
 
 # Wheel Python 2.7
 # sha256: q409VanEtW-Xy2D21rk92UlUwWEU8K6HLCR6zoI_Fds
@@ -60,7 +60,7 @@ flake8==2.2.5
 # sha256: PphGaqL-VFQLy6mqbgGjn0ARDWdmjClzQMS5UUt8xJw
 # ZIP
 # sha256: MmP8nqIHC-HP-ERXhtbzGLdnaMAGg4n7OFOw0us_THI
-ipython==2.3.1
+ipython==2.4.1
 
 # sha256: DUoz845megyA7BpaDkaP5Y5c3GHLj0B3sQJLhf57cRc
 ipdb==0.8
@@ -79,7 +79,7 @@ sphinx-rtd-theme==0.1.6
 
 # sha256: XinOsvZKY-HOMBr0x0vrJ7WmYeWGPQBFT1mUC6JNc50
 # sha256: OQDKtkuxi2YYkSgARVAePxoFoeyZp1rrLtAmkdB4JcI
-sphinx-autobuild==0.3.0
+sphinx-autobuild==0.5.0
 
 # sha256: x9txeBCraWX2bIzwOYqYydjfmC2jm0zX8WKRHriVlvo
 docutils==0.12
@@ -87,7 +87,7 @@ docutils==0.12
 # sha256: XgOeHUDSMpge1YkUttGsLkU6foPd6iLvnz7q3QHeRcs
 # sha256: ZoyOZluTX2I4WcEyE-G8mzP9Gf7sTbfC-OhVwcjFWdc
 # sha256: fydQ9H4cA_ffSGbTdhm4B0_8HTIYI7taNRMC_k3SC2c
-Pygments==2.0.1
+Pygments==2.0.2
 
 # sha256: JukyDnP1ghgmtrJAijv_Cowp5FFZUwBpoRfv0572Gfg
 Pillow==2.7
@@ -114,7 +114,7 @@ py==1.4.26
 pytest==2.6.4
 
 # sha256: 5vBgp2ziAlqrrrblVCVpuSBnlPrDKKBm6vAsU17wXQI
-pytest-django==2.7.0
+pytest-django==2.8.0
 
 # sha256: MeUZjAbykOHoE9MN3QY6BAHZ46aYEpykQmd4FnOnEoU
 pytest-cov==1.8.1
@@ -140,14 +140,14 @@ click==3.3
 # sha256: QW014kelmSc9QP0Bp8pIJmbr2UZ7lYUsqUpV3bzxDuA
 # sha256: 49SRYStWkFJZgEtdIpJhJr7ZoMKoMXSFgrhQUAkgs3A
 # sha256: lZZFTHQINrALhLsuwySDga96cQXWoY_i6BO9GwW6MbE
-peepin==0.7
+peepin==0.10
 
 # sha256: u2w2OyYqTO7TvzhLefz0108LSchZ54xnAP0BXg3iSdo
-django-storages-redux==1.2.1
+django-storages-redux==1.2.2
 
 # sha256: 23aDBqF69XCWE7zCO3Cpu7dZSCOx5kHR7ZhdagPIKxA
 # sha256: YmBPD99oormmxr1REcguECgbSYaVFS0h9WyeSgaR1F0
-boto==2.35.1
+boto==2.36.0
 
 # sha256: QYqTw5en7asj5ViNvAZ6x0pyPts9VBvUk295R252Rdo
 # sha256: 4kBSQR_E-9H2cmNVN8P8IzDZSBsYwDF2lbRiWVEskdU
@@ -155,7 +155,7 @@ six==1.9.0
 
 # sha256: rf8-36E3YtVqvHx95gnTldSwOjBBRxImBizpn8qDU3A
 # sha256: Mfw1XHE1TVYJWPhskeGAvivHbGHBiaqG6Gm0nbOrDfU
-django-extensions==1.4.9
+django-extensions==1.5.0
 
 # sha256: gBjyNk71se4SXu2IoYpjXFyxztkdeyNDU9igfe8yxhM
 django-sslify==0.2.5
@@ -171,7 +171,7 @@ mccabe==0.3
 
 # sha256: Yuh_1UU1-5MrSk2Uho21IyV6EDHIvGvTWMIBVDPmRts
 # sha256: FbQhMbJfN2Fl0ZX-ThewooMRGCqvkzDV61dbvtpaaYk
-pep8==1.5.7
+pep8==1.6.2
 
 # sha256: rEVxaVwQzhU2vNuhopS58tPmzJ0OoXG2fVCghkzj4EI
 # sha256: P6gKELNtUWhr93RPXcmWIs1cmM6O1kAi5imGiq_Bd2k
@@ -179,10 +179,10 @@ pyflakes==0.8.1
 
 # sha256: HwRtz17HEu076GhLnzPJW3bijNHIJdsPXhVXv9h7N0U
 # sha256: e3c179Ox4jI9yfzvBgs4DQX18YvQ8kf16edKYoJ53mY
-requests==2.5.1
+requests==2.5.2
 
 # sha256: lRcUyqCugCN_T_wfCEUOni5fj5Ar6vGtKUAgh11vjCw
-execnet==1.2.0
+execnet==1.3.0
 
 # sha256: Yx2-hD7Hza2vI5jFA0PYhweNT5N0oOMHWKNQI_hl--k
 pytest-xdist==1.11
